@@ -111,7 +111,7 @@
 </details>
 
 I like 
- - Sparklines ▁▂▃▄▅▆▇█▅▆▃▄
+ - Sparklines ▁▂▃▄▅▆▇█
  - Fencing
  - Helping people be the best version of themselves
  - Building products
