@@ -1,4 +1,5 @@
 ## Hi there 👋
+<hr style="color:red;border-bottom: 1px dashed red">
 
 <!--
 **klh/klh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
