@@ -81,7 +81,7 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 </details>
 
 <details>
-<summary>Boring list of programming languages and technologies</summary>
+<summary>Languages and technologies</summary>
 
 - **Programming Languages**: JavaScript, TypeScript, PHP, Python, Ruby, HTML, CSS, ActionScript, SQL, DHTML
 - **Frameworks & Libraries**: React, React Native, Redux, Angular, Preact, Vue, Lit.dev, Stencil.js, Prototype, Riot, WebComponents, Nuxt, Bootstrap, Material UI, Node.js, Express, Electron, Cordova, PhoneGap, Backbone, Spine, Sitecore, Zend, i18n, Jest, Sharp, Storybook, Webpack, Varnish, Traefik, Heroku, Firebase, i18n, Bitbucket Pipelines, Atomic Design, Apollo, WebSockets, Microservices, API Development, GraphQL, Redis, JSON, AJAX, jQuery
@@ -95,6 +95,22 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 - **Other**: Microarchitectures, Agile, SCRUM, F5, BigIp, Memcached, XMPP, Eleventy, Design Tokens, Accessibility Compliance, REST, WebWorkers, Kafka, NASA API, GraphQL, RealPlayer, Audio & Video Integration
 
 </details>
+
+<details>
+<summary>Real languages </summary>
+
+- **English**: Fluent
+- **Danish**: Fluent
+- **German**: Fluent
+- **Swedish/Norwegian**: semi fluent
+- **French**: enough to get in trouble
+- **Italian**: Junior apprentice
+- **Japanese**: Junior apprentice
+- **Latin**: Senior apprentice
+
+</details>
+
+
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
