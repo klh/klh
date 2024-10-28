@@ -38,6 +38,7 @@ YOUR TABLE
 
 — Mona the Octocat
 
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -81,7 +82,7 @@ YOUR TABLE
     }
   ]
 }
-
+```
 
 ```stl
 solid cube_corner
