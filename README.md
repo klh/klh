@@ -18,25 +18,8 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>Location</summary>
 
-YOUR TABLE
-
-</details>
-
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
-
-
-
----
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
 
 ```geojson
 {
@@ -47,7 +30,7 @@ YOUR TABLE
       "id": 1,
       "properties": {
         "ID": 0,
-        "name": "Copenhagen Circle"
+        "name": "I'm usually around here somewhere"
       },
       "geometry": {
         "type": "Polygon",
@@ -83,6 +66,23 @@ YOUR TABLE
   ]
 }
 ```
+
+</details>
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
+
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+
 
 ```stl
 solid cube_corner
