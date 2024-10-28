@@ -117,6 +117,9 @@ I like
  - Building products
  - and companies
 
+ex: Disney, Fruitella, Target, Sony, Nike, Capcom, 3, Sony Vaio, Sony Playstation, Bythreads, Carecord, Medtrace, Bangura Bird, Payamba, Tiba, medtrace.dk, lahitapiola.fi, duetds.com, Novo Nordisk, Medtrace, Erhvervsstyrelsen, NETS, TV2, SaxoBank, Danmarks Radio, TDC Yousee, Schneider Electric, Danica Pension, KUA, Carecord, Vodafone, Threads, Novalis, UNDP, Neurokey MedTech, Telenor, Sterling Airlines,.
+
+current: Linear, Arriam, Threads, Dosu, DTU, AICenter
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
