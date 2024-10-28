@@ -1,7 +1,7 @@
 ## Hi there, I'm Klaus
 
 > [!NOTE]
-> I am a creative technologist
+> I am a creative technologist, programmer, designer, investor and pay it forward guy.
 
 Since 1995 and some change I have made computers do my bidding through design, programming and applied welding irons.
 
