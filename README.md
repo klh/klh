@@ -18,8 +18,8 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 
 
 <details>
-<summary>Location</summary>
-
+<summary>Current location</summary>
+<!-- just because geojson is kinda fun -->
 
 ```geojson
 {
