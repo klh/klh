@@ -1,7 +1,7 @@
 ## Hi there, I'm Klaus
 
 > [!NOTE]
-> I am a creative technologist that hate the fact that I cannot style this particular page to death.
+> I am a creative technologist
 
 Since 1995 and some change I have made computers do my bidding through design, programming and applied welding irons.
 
