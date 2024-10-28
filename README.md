@@ -21,6 +21,20 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 | Header 1     | Header 2     | Header 3     |
 
 
+
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</th>
+  </tr>
+  <tr>
+    <td>Header 1</td>
+    <td>Header 2</td>
+    <td>Header 3</td>
+  </tr>
+</table>
+
 <details>
 <summary>Current location</summary>
 <!-- just because geojson is kinda fun -->
