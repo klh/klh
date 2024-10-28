@@ -1,4 +1,4 @@
-## Hi there, I'm Klaus - I like sparklines ▁▂▃▄▅▆▇█▅▆▃▄
+## Hi there, I'm Klaus
 
 > [!NOTE]
 > I am a creative technologist, programmer, designer, investor and pay it forward guy.
@@ -110,6 +110,12 @@
 
 </details>
 
+I like 
+ - Sparklines ▁▂▃▄▅▆▇█▅▆▃▄
+ - Fencing
+ - Helping people be the best version of themselves
+ - Building products
+ - and companies
 
 
 ---
