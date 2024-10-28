@@ -3,7 +3,7 @@
 > [!NOTE]
 > I am a creative technologist, programmer, designer, investor and pay it forward guy.
 
-Since 1995 and some change I have made computers do my bidding through design, programming and applied welding irons.
+Since 1995 and some change I have made computers do my bidding through design, programming and applied solder irons.
 
 I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism towards frameworks.
 
