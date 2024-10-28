@@ -6,7 +6,7 @@
 Since 1995 and some change I have made computers do my bidding through design, programming and applied solder irons.
 
 I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism towards frameworks.
-
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 <details>
 <summary>Current location</summary>
 <!-- just because geojson is kinda fun -->
