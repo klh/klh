@@ -65,7 +65,7 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 
 [The Elements of Typographic style](https://typographica.org/typography-books/the-elements-of-typographic-style-4th-edition/)
 
-[Understanding media]([https://typographica.org/typography-books/the-elements-of-typographic-style-4th-edition/](https://mitpress.mit.edu/9780262631594/understanding-media/))
+[Understanding media](https://mitpress.mit.edu/9780262631594/understanding-media/)
 
 
 </details>
