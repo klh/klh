@@ -61,9 +61,9 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>Formative books</summary>
 
-YOUR TABLE
+[The Elements of Typographic style](https://typographica.org/typography-books/the-elements-of-typographic-style-4th-edition/)
 
 </details>
 
