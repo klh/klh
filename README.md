@@ -37,6 +37,8 @@ YOUR TABLE
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -65,6 +67,8 @@ YOUR TABLE
     }
   ]
 }
+```
+
 
 ```stl
 solid cube_corner
