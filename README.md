@@ -113,7 +113,7 @@
 I like 
  - Sparklines __▁▂▃▄▅▆▇█__
  - Fencing
- - Helping people be the best version of themselves
+ - Helping people out
  - Building products
  - and companies
 
