@@ -67,6 +67,14 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 
 [Understanding media](https://mitpress.mit.edu/9780262631594/understanding-media/)
 
+[No logo](https://en.wikipedia.org/wiki/No_Logo)
+
+[D&D 4th edition](https://dungeonsdragons.fandom.com/wiki/Dungeons_%26_Dragons_4th_edition)
+
+[NASA standards manual](https://standardsmanual.com/products/nasa-graphics-standards-manual)
+
+[Raster systeme](https://monoskop.org/images/a/a4/Mueller-Brockmann_Josef_Grid_Systems_in_Graphic_Design_Raster_Systeme_fuer_die_Visuele_Gestaltung_English_German_no_OCR.pdf)
+
 
 </details>
 
