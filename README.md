@@ -128,6 +128,8 @@ Linear, Arriam, Threads, Dosu, DTU, AICenter
 Disney, Fruitella, Target, Sony, Nike, Capcom, 3, Sony Vaio, Sony Playstation, Bythreads, Carecord, Medtrace, Bangura Bird, Payamba, Tiba, medtrace.dk, lahitapiola.fi, duetds.com, Novo Nordisk, Medtrace, Erhvervsstyrelsen, NETS, TV2, SaxoBank, Danmarks Radio, TDC Yousee, Schneider Electric, Danica Pension, KUA, Carecord, Vodafone, Threads, Novalis, UNDP, Neurokey MedTech, Telenor, Sterling Airlines,.
 
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/klh/ama)
+
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
