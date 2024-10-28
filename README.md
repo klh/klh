@@ -77,7 +77,7 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 
 [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
 
-[Envisioning Information](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118))
+[Envisioning Information](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118)
 </details>
 
 
