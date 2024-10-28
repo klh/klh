@@ -168,3 +168,4 @@ solid cube_corner
   endfacet
 endsolid
 ```
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/8e5ba7ae-771a-4d46-ac54-52274963031b">
