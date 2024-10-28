@@ -29,12 +29,7 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
     <th>Column 3</th>
   </tr>
   <tr>
-    <td>Header 1</td>
-    <td>Header 2</td>
-    <td>Header 3</td>
-  </tr>
-</table>
-
+    <td>
 <details>
 <summary>Current location</summary>
 <!-- just because geojson is kinda fun -->
@@ -85,7 +80,114 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
 }
 ```
 
-</details>
+</details></td>
+    <td>
+<details>
+<summary>Current location</summary>
+<!-- just because geojson is kinda fun -->
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "name": "I'm usually around here somewhere"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [12.5683, 55.7135],
+            [12.5747, 55.7129],
+            [12.5807, 55.7109],
+            [12.5858, 55.7077],
+            [12.5897, 55.7035],
+            [12.5918, 55.6988],
+            [12.5918, 55.6937],
+            [12.5897, 55.6889],
+            [12.5858, 55.6847],
+            [12.5807, 55.6815],
+            [12.5747, 55.6795],
+            [12.5683, 55.6789],
+            [12.5619, 55.6795],
+            [12.5559, 55.6815],
+            [12.5508, 55.6847],
+            [12.5467, 55.6889],
+            [12.5446, 55.6937],
+            [12.5446, 55.6988],
+            [12.5467, 55.7035],
+            [12.5508, 55.7077],
+            [12.5559, 55.7109],
+            [12.5619, 55.7129],
+            [12.5683, 55.7135]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+</details></td>
+    <td>
+<details>
+<summary>Current location</summary>
+<!-- just because geojson is kinda fun -->
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "name": "I'm usually around here somewhere"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [12.5683, 55.7135],
+            [12.5747, 55.7129],
+            [12.5807, 55.7109],
+            [12.5858, 55.7077],
+            [12.5897, 55.7035],
+            [12.5918, 55.6988],
+            [12.5918, 55.6937],
+            [12.5897, 55.6889],
+            [12.5858, 55.6847],
+            [12.5807, 55.6815],
+            [12.5747, 55.6795],
+            [12.5683, 55.6789],
+            [12.5619, 55.6795],
+            [12.5559, 55.6815],
+            [12.5508, 55.6847],
+            [12.5467, 55.6889],
+            [12.5446, 55.6937],
+            [12.5446, 55.6988],
+            [12.5467, 55.7035],
+            [12.5508, 55.7077],
+            [12.5559, 55.7109],
+            [12.5619, 55.7129],
+            [12.5683, 55.7135]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+</details></td>
+  </tr>
+</table>
+
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
