@@ -37,8 +37,6 @@ YOUR TABLE
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
-
-```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -46,24 +44,27 @@ YOUR TABLE
       "type": "Feature",
       "id": 1,
       "properties": {
-        "ID": 0
+        "ID": 0,
+        "name": "Copenhagen"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
+            [12.5433, 55.6775],
+            [12.5683, 55.6759],
+            [12.5812, 55.6696],
+            [12.5942, 55.6708],
+            [12.6005, 55.6824],
+            [12.5817, 55.6901],
+            [12.5524, 55.6896],
+            [12.5433, 55.6775]
           ]
         ]
       }
     }
   ]
 }
-```
 
 ```stl
 solid cube_corner
