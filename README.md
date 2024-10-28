@@ -16,22 +16,7 @@ I rock vanilla JS/TS, node and all its flavours and have an healthy skepticism t
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-| <details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>    | <details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>    | <details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>     |
+| <details><summary>My top THINGS-TO-RANK</summary>YOUR TABLE</details>    | <details><summary>My top THINGS-TO-RANK</summary>YOUR TABLE</details>    | <details><summary>My top THINGS-TO-RANK</summary>YOUR TABLE</details>     |
 |--------------|--------------|--------------|
 | Header 1     | Header 2     | Header 3     |
 
