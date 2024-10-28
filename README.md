@@ -1,4 +1,4 @@
-## Hi there, I'm Klaus [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+## Hi there, I'm Klaus - I like sparklines ▁▂▃▄▅▆▇█▅▆▃▄
 
 > [!NOTE]
 > I am a creative technologist, programmer, designer, investor and pay it forward guy.
