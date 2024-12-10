@@ -5,7 +5,7 @@
 > Since 1995 and some change I have made computers do my bidding through design, programming and applied solder irons.
 > I rock vanilla JS/TS, node and all its flavours.
 >
-> Allthough of less relevance here, I ROCK offline graphic design and design strategy, have written books, designed and poplished amazing corporate works and worked on exciting brands and commercials for a large body of fortune 500 companies and international NGOs -> I Design & Develop & Lead stuff. :)
+> Allthough of less relevance here, I ROCK offline graphic design and design strategy, have written books, designed and published amazing corporate works and worked on exciting brands and commercials for a large body of fortune 500 companies and international NGOs -> I Design & Develop & Lead stuff. :)
 
 
 <details>
