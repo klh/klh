@@ -132,9 +132,9 @@ Disney, Fruitella, Target, Sony, Nike, Capcom, 3, Sony Vaio, Sony Playstation, B
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/klh/ama)
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> Be kind.
 
-— Mona the Octocat
+— Me
 
 
 ```stl
