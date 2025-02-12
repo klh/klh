@@ -138,33 +138,80 @@ Disney, Fruitella, Target, Sony, Nike, Capcom, 3, Sony Vaio, Sony Playstation, B
 
 
 ```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
+solid pyramid_with_circle
+  // Pyramid base (square)
+  facet normal 0 0 -1
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
+      vertex -1 -1 0
+      vertex 1 -1 0
+      vertex 1 1 0
     endloop
   endfacet
-  facet normal 0.0 0.0 -1.0
+  facet normal 0 0 -1
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
+      vertex -1 -1 0
+      vertex 1 1 0
+      vertex -1 1 0
     endloop
   endfacet
-  facet normal -1.0 0.0 0.0
+
+  // Pyramid sides
+  facet normal 0 -1 1
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
+      vertex -1 -1 0
+      vertex 1 -1 0
+      vertex 0 0 2
     endloop
   endfacet
-  facet normal 0.577 0.577 0.577
+  facet normal 1 0 1
     outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
+      vertex 1 -1 0
+      vertex 1 1 0
+      vertex 0 0 2
+    endloop
+  endfacet
+  facet normal 0 1 1
+    outer loop
+      vertex 1 1 0
+      vertex -1 1 0
+      vertex 0 0 2
+    endloop
+  endfacet
+  facet normal -1 0 1
+    outer loop
+      vertex -1 1 0
+      vertex -1 -1 0
+      vertex 0 0 2
+    endloop
+  endfacet
+
+  // Approximate sphere (circle) over the pyramid
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 3
+      vertex 0.5 0 2.5
+      vertex 0 0.5 2.5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 3
+      vertex 0 0.5 2.5
+      vertex -0.5 0 2.5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 3
+      vertex -0.5 0 2.5
+      vertex 0 -0.5 2.5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 3
+      vertex 0 -0.5 2.5
+      vertex 0.5 0 2.5
     endloop
   endfacet
 endsolid
