@@ -138,189 +138,187 @@ Disney, Fruitella, Target, Sony, Nike, Capcom, 3, Sony Vaio, Sony Playstation, B
 
 
 ```stl
-solid pyramid_with_circle
+solid pyramid_with_sphere
   facet normal 0 0 -1
     outer loop
-      vertex -1 -1 0
-      vertex 1 -1 0
-      vertex 1 1 0
+      vertex -50 -50 0
+      vertex 50 -50 0
+      vertex 50 50 0
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -1 -1 0
-      vertex 1 1 0
-      vertex -1 1 0
-    endloop
-  endfacet
-
-  facet normal 0 -0.4472 0.8944
-    outer loop
-      vertex -1 -1 0
-      vertex 1 -1 0
-      vertex 0 0 4
-    endloop
-  endfacet
-  facet normal 0.4472 0 0.8944
-    outer loop
-      vertex 1 -1 0
-      vertex 1 1 0
-      vertex 0 0 4
-    endloop
-  endfacet
-  facet normal 0 0.4472 0.8944
-    outer loop
-      vertex 1 1 0
-      vertex -1 1 0
-      vertex 0 0 4
-    endloop
-  endfacet
-  facet normal -0.4472 0 0.8944
-    outer loop
-      vertex -1 1 0
-      vertex -1 -1 0
-      vertex 0 0 4
-    endloop
-  endfacet
-
-  facet normal 0 0 1
-    outer loop
-      vertex 0 0 6
-      vertex 0.5 0 5.5
-      vertex 0 0.5 5.5
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 0 0 6
-      vertex 0 0.5 5.5
-      vertex -0.5 0 5.5
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 0 0 6
-      vertex -0.5 0 5.5
-      vertex 0 -0.5 5.5
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 0 0 6
-      vertex 0 -0.5 5.5
-      vertex 0.5 0 5.5
-    endloop
-  endfacet
-  facet normal 0.7071 0 0.7071
-    outer loop
-      vertex 0.5 0 5.5
-      vertex 0 0.5 5.5
-      vertex 0 0 6
-    endloop
-  endfacet
-  facet normal 0 0.7071 0.7071
-    outer loop
-      vertex 0 0.5 5.5
-      vertex -0.5 0 5.5
-      vertex 0 0 6
-    endloop
-  endfacet
-  facet normal -0.7071 0 0.7071
-    outer loop
-      vertex -0.5 0 5.5
-      vertex 0 -0.5 5.5
-      vertex 0 0 6
+      vertex -50 -50 0
+      vertex 50 50 0
+      vertex -50 50 0
     endloop
   endfacet
   facet normal 0 -0.7071 0.7071
     outer loop
-      vertex 0 -0.5 5.5
-      vertex 0.5 0 5.5
-      vertex 0 0 6
+      vertex -50 -50 0
+      vertex 50 -50 0
+      vertex 0 0 50
     endloop
   endfacet
   facet normal 0.7071 0 0.7071
     outer loop
-      vertex 0.5 0 5.5
-      vertex 0 0 5
-      vertex 0 0.5 5.5
+      vertex 50 -50 0
+      vertex 50 50 0
+      vertex 0 0 50
     endloop
   endfacet
   facet normal 0 0.7071 0.7071
     outer loop
-      vertex 0 0.5 5.5
-      vertex 0 0 5
-      vertex -0.5 0 5.5
+      vertex 50 50 0
+      vertex -50 50 0
+      vertex 0 0 50
     endloop
   endfacet
   facet normal -0.7071 0 0.7071
     outer loop
-      vertex -0.5 0 5.5
-      vertex 0 0 5
-      vertex 0 -0.5 5.5
+      vertex -50 50 0
+      vertex -50 -50 0
+      vertex 0 0 50
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 100
+      vertex 25 0 90
+      vertex 0 25 90
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 100
+      vertex 0 25 90
+      vertex -25 0 90
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 100
+      vertex -25 0 90
+      vertex 0 -25 90
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0 0 100
+      vertex 0 -25 90
+      vertex 25 0 90
+    endloop
+  endfacet
+  facet normal 0.7071 0 0.7071
+    outer loop
+      vertex 25 0 90
+      vertex 0 25 90
+      vertex 0 0 100
+    endloop
+  endfacet
+  facet normal 0 0.7071 0.7071
+    outer loop
+      vertex 0 25 90
+      vertex -25 0 90
+      vertex 0 0 100
+    endloop
+  endfacet
+  facet normal -0.7071 0 0.7071
+    outer loop
+      vertex -25 0 90
+      vertex 0 -25 90
+      vertex 0 0 100
     endloop
   endfacet
   facet normal 0 -0.7071 0.7071
     outer loop
-      vertex 0 -0.5 5.5
-      vertex 0 0 5
-      vertex 0.5 0 5.5
+      vertex 0 -25 90
+      vertex 25 0 90
+      vertex 0 0 100
+    endloop
+  endfacet
+  facet normal 0.7071 0 0.7071
+    outer loop
+      vertex 25 0 90
+      vertex 0 0 75
+      vertex 0 25 90
+    endloop
+  endfacet
+  facet normal 0 0.7071 0.7071
+    outer loop
+      vertex 0 25 90
+      vertex 0 0 75
+      vertex -25 0 90
+    endloop
+  endfacet
+  facet normal -0.7071 0 0.7071
+    outer loop
+      vertex -25 0 90
+      vertex 0 0 75
+      vertex 0 -25 90
+    endloop
+  endfacet
+  facet normal 0 -0.7071 0.7071
+    outer loop
+      vertex 0 -25 90
+      vertex 0 0 75
+      vertex 25 0 90
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 0 0 5
-      vertex 0.5 0 5.5
-      vertex 0 0.5 5.5
+      vertex 0 0 75
+      vertex 25 0 90
+      vertex 0 25 90
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 0 0 5
-      vertex 0 0.5 5.5
-      vertex -0.5 0 5.5
+      vertex 0 0 75
+      vertex 0 25 90
+      vertex -25 0 90
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 0 0 5
-      vertex -0.5 0 5.5
-      vertex 0 -0.5 5.5
+      vertex 0 0 75
+      vertex -25 0 90
+      vertex 0 -25 90
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 0 0 5
-      vertex 0 -0.5 5.5
-      vertex 0.5 0 5.5
+      vertex 0 0 75
+      vertex 0 -25 90
+      vertex 25 0 90
     endloop
   endfacet
-  facet normal 0.4472 -0.4472 0.7746
+  facet normal 0.5774 -0.5774 0.5774
     outer loop
-      vertex 0 0 4
-      vertex 0.5 0 5.5
-      vertex 0 0 5
+      vertex 0 0 50
+      vertex 25 0 90
+      vertex 0 0 75
     endloop
   endfacet
-  facet normal 0.4472 0.4472 0.7746
+  facet normal 0.5774 0.5774 0.5774
     outer loop
-      vertex 0 0 4
-      vertex 0 0.5 5.5
-      vertex 0 0 5
+      vertex 0 0 50
+      vertex 0 25 90
+      vertex 0 0 75
     endloop
   endfacet
-  facet normal -0.4472 0.4472 0.7746
+  facet normal -0.5774 0.5774 0.5774
     outer loop
-      vertex 0 0 4
-      vertex -0.5 0 5.5
-      vertex 0 0 5
+      vertex 0 0 50
+      vertex -25 0 90
+      vertex 0 0 75
     endloop
   endfacet
-  facet normal -0.4472 -0.4472 0.7746
+  facet normal -0.5774 -0.5774 0.5774
     outer loop
-      vertex 0 0 4
-      vertex 0 -0.5 5.5
-      vertex 0 0 5
+      vertex 0 0 50
+      vertex 0 -25 90
+      vertex 0 0 75
     endloop
   endfacet
 endsolid
