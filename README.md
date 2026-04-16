@@ -131,6 +131,15 @@ Disney, Fruitella, Target, Sony, Nike, Capcom, 3, Sony Vaio, Sony Playstation, B
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/klh/ama)
 
+
+## Things you might find interesting
+
+- [**klh/skills**](https://github.com/klh/skills) — 13 personal agent skills for AI coding agents. `npx skills add klh/skills -g -y`
+- [**klh/speedy-claude**](https://github.com/klh/speedy-claude) — Claude Code dotfiles with 30+ CLI tools, 7 slash commands, specialist agent personas, and 39 skills. Makes file operations 10-1400x faster.
+- [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) — 20 production-grade engineering skills by Addy Osmani: spec-driven development, TDD, code review, security hardening, and more. `npx skills add addyosmani/agent-skills -g -y`
+- [**npx skills**](https://github.com/vercel-labs/skills) — Universal skill installer for 40+ coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini CLI, etc.)
+- [**agent-skills spec**](https://agentskills.io) — Open standard for packaging agent instructions. Skills are just directories with a SKILL.md.
+
 ---
 > Be kind.
 
